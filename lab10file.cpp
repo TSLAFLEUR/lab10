@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include "function.h"
 
 using std::cout;
@@ -12,3 +12,4 @@ int main()
     name();
     return 0;
 }
+*/
